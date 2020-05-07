@@ -1,0 +1,9 @@
+## Interface: 80300
+## Title: hya_dispel
+## Title-zhCN: 驱散通知
+## Notes: send message after dispel 
+## Notes-zhCN: 驱散后发送通知
+## Version: 8.3.0
+## Author: huiyuanai709
+
+hya_dispel.lua
